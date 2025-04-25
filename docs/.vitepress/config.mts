@@ -13,6 +13,7 @@ export default defineConfig({
         lineNumbers: true,
     },
 
+
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
@@ -44,6 +45,11 @@ export default defineConfig({
         footer: {
             message: 'MIT License',
             copyright: 'Copyright © 2025 mc-miaaoo-docs'
+        },
+
+        editLink: {
+            pattern: 'https://github.com/zihao-il/mc-miaaoo-docs/tree/main/docs/:path',
+            text: '在 GitHub 上编辑此页面'
         },
 
         docFooter: {

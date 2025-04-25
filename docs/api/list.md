@@ -4,7 +4,7 @@
  
 ## 请求
 
-list是一个最简单API请求了，你只需要向`https://api.miaaoo.com/list` 发送一个`post`请求就可以了。
+list是一个最简单API请求了，你只需要向`https://api.miaaoo.com/list` 发送一个`get`请求就可以了。
 
 ## 响应
 

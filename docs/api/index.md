@@ -18,7 +18,7 @@ https://api.miaaoo.com
 
 ## /list
 
-list是一个`post`请求，他不需要传入任何参数，用来获取所有的房间信息。
+list是一个`get`请求，他不需要传入任何参数，用来获取所有的房间信息。
 
 ## /join
 

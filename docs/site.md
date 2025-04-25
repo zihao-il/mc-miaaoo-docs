@@ -7,3 +7,5 @@
 - [mc.miaaoo.com](https://mc.miaaoo.com/)
 
 ## 第三方网站
+
+1. [lianji.miaaoo.com](https://lianji.miaaoo.com/)

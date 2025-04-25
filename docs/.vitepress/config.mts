@@ -18,10 +18,12 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             {text: '主页', link: '/'},
+            {text: '教程', link: '/init.md'},
             {text: 'API', link: '/api/index.md'}
         ],
 
         sidebar: [
+            {text: '教程', link: '/init.md'},
             {
                 text: '文档说明',
                 items: [

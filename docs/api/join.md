@@ -4,7 +4,7 @@
 
 ## 请求
 
-list应该算是一个简单API请求了，你只需要向`https://api.miaaoo.com/json` 发送一个`post`请求 ~~就可以了~~ 才怪。
+list应该算是一个简单API请求了，你只需要向`https://api.miaaoo.com/join` 发送一个`post`请求 ~~就可以了~~ 才怪。
 
 你需要传入一组`json`数据，来告诉服务器你要加入哪个房间。
 

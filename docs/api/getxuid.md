@@ -4,7 +4,7 @@
 
 ## 请求
 
-list算是一个简单API请求了，你只需要向`https://api.miaaoo.com/getxuid` 发送一个`get`请求并传入一个`gametag`的值即可。
+/getxuid算是一个简单API请求了，你只需要向`https://api.miaaoo.com/getxuid` 发送一个`get`请求并传入一个`gametag`的值即可。
 
 例如：
 

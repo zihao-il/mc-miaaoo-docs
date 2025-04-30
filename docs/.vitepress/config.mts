@@ -25,7 +25,6 @@ export default defineConfig({
         sidebar: [
             {text: '教程', link: '/init.md'},
             {
-                text: '文档说明',
                 items: [
                     {
                         text: 'API说明', link: '/api/index.md',
@@ -35,9 +34,10 @@ export default defineConfig({
                             {text: '/getxuid', link: '/api/getxuid.md'},
                         ]
                     },
-                    {text: '其他网页', link: '/site'}
                 ]
-            }
+            },
+            {text: '其他网页', link: '/site'}
+
         ],
 
         socialLinks: [

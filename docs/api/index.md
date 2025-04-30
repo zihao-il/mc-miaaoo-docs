@@ -10,9 +10,9 @@ https://api.miaaoo.com
 
 此外你还需要设置一下请求头类型
 
-```bash
+```json
 {
-  "Content-Type": "application/json",
+  "Content-Type": "application/json"
 }
 ```
 

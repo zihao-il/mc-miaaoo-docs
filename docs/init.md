@@ -20,13 +20,22 @@
 2. **在游戏中添加该账号为好友**  
    ![步骤2](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VXbkdfUnVzLUJ0THVmS0t3Znc3TzYwQjRxR1ZCdkpuTlV1SHNxaDRVZ1dTa3c.gif)
 
-3. **复制自己的名字**  
-   ![步骤3](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VVSXo3eWV5bjJ0SGlhcFNRYkctWEhrQkRDU2FkMGloVzdGaUNPRC13RXo0bmc_ZT1FZTI5TkM.gif)
+## 🎮 开始使用网站联机：
 
-4. **广播设置**
-    - 选中已添加的账号（如`HelloMC25a`）。
-    - 在“邀请设置”中粘贴自己的名字，点击“补全”按钮生成数字。  
-      ![步骤4](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VWeVVhYWlBZGdoSW41U240bUJXQ1lnQmkwOHN2RHFwcms3ajhFbVJzSGEzS3c_ZT16aHpSZGw.gif)
+1. **提前打开好游戏，游戏压在后台，安卓手机开小窗也可以，苹果手机压后台也没事。**
+
+2. **点击“广播房间”按钮，显示了“按钮已触发”才是按下去了，然后等待显示“成功”。**  
+   ![步骤3](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VZdk1JVFZhNTdaT2pOdjF4MllfdVE0QkIySi1abHljR0ZYYk12cGVJSWJpaFE_ZT1SckVkZjI.gif)
+
+3. **在网站单击房主名字，就可以复制房主名字。**  
+   ![步骤4](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VVb1h3NFpHRHNKR3REODgycUxnOE5jQjRhbWEzNnJna0dsSDJjTG1OUWNnZkE_ZT1Zdjd6SnA.gif)
+
+4. **在游戏里粘贴房主名字，添加房主好友。不要管对方加不加你，只管照做就是。如果你没想真的加对方好友（比如说好友要满了之类的），可以在进入房间后删除好友（不影响网站联机），因为大多数情况下对方互加好友的速度没那么快。
+   **
+   ![步骤5](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VRcmxyb2VuY01sSHFvY1VVZnhUbDFZQjAtM3hPNmJGbkhSeGhHY0Jtc0Q5NEE.gif)
+
+5. **在好友界面找到房主名字，点击后面的“加入”按钮，就可以加入房间了。**  
+   ![步骤6](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VSQmV3N0VOUnRWSWtobS1kWTkybWJvQnVKLUZPblEzc25jdms4QjJyMUFVSXc_ZT1tazFmUjI.gif)
 
 ---
 
@@ -35,24 +44,15 @@
 ### 方法一：通过邀请加入
 
 1. **提前打开游戏**（后台或小窗运行）。
+
 2. **在网站点击房间**，等待显示“成功”后返回游戏。  
-   ![步骤5](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VkSWFIcDNFdG9OTnZ4SXppc0V1UnQ4QmhFcWhzOW5iOEdmTEFTNDJUTU9sSkE.gif)
+   ![步骤1](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VkSWFIcDNFdG9OTnZ4SXppc0V1UnQ4QmhFcWhzOW5iOEdmTEFTNDJUTU9sSkE.gif)
+
 3. **接受游戏邀请**（PC端通过Xbox Game Bar弹出）。  
-   ![步骤6](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VWQ0FqcURhUG5kRHZfQkJYWFd2MVlvQkRHQ3ktU18zQ1pkQXBmcDlCZXJ4TVE_ZT1nM0wxTTY.gif)
+   ![步骤2](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VWQ0FqcURhUG5kRHZfQkJYWFd2MVlvQkRHQ3ktU18zQ1pkQXBmcDlCZXJ4TVE_ZT1nM0wxTTY.gif)
 
-### 方法二：手动加入（未收到邀请时）
-
-1. **复制房主名字**（在网站单击房主名）。  
-   ![步骤7](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VVb1h3NFpHRHNKR3REODgycUxnOE5jQjRhbWEzNnJna0dsSDJjTG1OUWNnZkE_ZT1Zdjd6SnA.gif)
-2. **添加房主为好友**（进入房间后可删除）。  
-   ![步骤8](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VRcmxyb2VuY01sSHFvY1VVZnhUbDFZQjAtM3hPNmJGbkhSeGhHY0Jtc0Q5NEE.gif)
-3. **点击“广播房间”**，等待“成功”后返回游戏。  
-   ![步骤9](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VZdk1JVFZhNTdaT2pOdjF4MllfdVE0QkIySi1abHljR0ZYYk12cGVJSWJpaFE_ZT1SckVkZjI.gif)
-4. **在好友列表找到房主**，点击“加入”按钮。  
-   ![步骤10](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VSQmV3N0VOUnRWSWtobS1kWTkybWJvQnVKLUZPblEzc25jdms4QjJyMUFVSXc_ZT1tazFmUjI.gif)
-
-> **故障排除**：若提示“此世界已不再开放加入”，等待10秒重试；若仍失败，则房间已关闭。  
-> ![故障提示](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VYVFRUcHRfb3lKQmhMN2Q1ZEszTm5nQlh0RWdRSWJrR1NYS3BkdUpDR1ZOVEE_ZT1pSjh3bUM.gif)
+4. **故障排除：点击加入按钮显示“此世界已不再开放加入”是游戏bug，等个10来秒再试就行了，如果还不行，那就是房间真的关闭了。**
+   ![故障提示](https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy83MmJiMWJiYThlOGE5MzY2L0VYVFRUcHRfb3lKQmhMN2Q1ZEszTm5nQlh0RWdRSWJrR1NYS3BkdUpDR1ZOVEE_ZT1pSjh3bUM.gif)
 
 ---
 

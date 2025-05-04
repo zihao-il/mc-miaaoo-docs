@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 🚀查看文档
-      link: /init
+      link: /教程
     - theme: alt
       text: 🛠️Github
       link: https://github.com/zihao-il/mc-miaaoo-docs

@@ -9,3 +9,5 @@
 ## 第三方网站
 
 1. [lianji.miaaoo.com](https://lianji.miaaoo.com/)
+    - 备用：[miaaoo.netlify.app](https://miaaoo.netlify.app/)
+2. [www.cubezone.cc/pages/mcbelobby](https://www.cubezone.cc/pages/mcbelobby/)

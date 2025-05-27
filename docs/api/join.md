@@ -10,23 +10,23 @@
 
 ```json5
 {
-  version: "1.0.0",
+  "version": "1.0.0",
   //现在版只有1.0.0
-  joininformation: {
-    addid: "5",
+  "joininformation": {
+    "addid": "5",
     // 你添加了哪位好友就填对应好友的id数字
     // 2：MultiMC23，3：gouhope，4：HelloMC25，5：HelloMC25a
-    roomfrom: "5",
+    "roomfrom": "5",
     // 房间来源的好友id 在/list请求中roomfrom对应的值
-    roomid: "00000000-0000-0000-0000-000000000000",
+    "roomid": "00000000-0000-0000-0000-000000000000",
     // 在/list请求中id对应的值
-    sessionname: "00000000-0000-0000-0000-000000000000"
+    "sessionname": "00000000-0000-0000-0000-000000000000"
     // 在/list请求中sessionRef中的name对应的值
   },
-  invitecontrol: {
-    userxuid: "000000000000000",
+  "invitecontrol": {
+    "userxuid": "000000000000000",
     // 你的xuid,可以用/getxuid获取
-    verifycode: "123456"
+    "verifycode": "123456"
     // 邀请功能解锁码，需要联系客服并发送自己的xuid获取。
   }
 }

@@ -2,8 +2,8 @@ import {defineConfig} from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "mc-miaaoo-docs",
-    description: "mc-miaaoo-docs",
+    title: "联机大厅开发文档站",
+    description: "Minecraft基岩版联机大厅API开发文档说明",
     lang: 'zh-CN',
     markdown: {
         theme: {
@@ -16,6 +16,7 @@ export default defineConfig({
 
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
+        logo: '/favicon.ico',
         nav: [
             {text: '主页', link: '/'},
             {text: '教程', link: '/教程.md'},

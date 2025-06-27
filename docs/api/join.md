@@ -26,8 +26,6 @@
   "invitecontrol": {
     "userxuid": "000000000000000",
     // 你的xuid,可以用/getxuid获取
-    "verifycode": "123456"
-    // 邀请功能解锁码，需要联系客服并发送自己的xuid获取。
   }
 }
 ```

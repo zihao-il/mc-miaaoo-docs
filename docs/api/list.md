@@ -33,7 +33,7 @@
         //房间广播设置，3：好友的好友，2：仅好友，1：仅邀请”，只有值为3的房间才能让外人加入。
         "isHardcore": false  // 是否为极限模式
       },
-      "roomfrom": "5"  //现在仅有5可添加好友
+      "roomfrom": "6"  //现在仅有6可添加好友
       //好友房间来源 在/join请求中roomfrom对应的值，对应关系如下
       // 2：MultiMC23，3：gouhope，4：HelloMC25，5：HelloMC25a，6：HelloMC25b5988
     }

@@ -13,10 +13,10 @@
   "version": "1.0.0",
   //现在版本只有1.0.0
   "joininformation": {
-    "addid": "5",
+    "addid": "6",
     // 你添加了哪位好友就填对应好友的id数字
     // 2：MultiMC23，3：gouhope，4：HelloMC25，5：HelloMC25a，6：HelloMC25b5988
-    "roomfrom": "5",
+    "roomfrom": "6",
     // 房间来源的好友id 在/list请求中roomfrom对应的值
     "roomid": "00000000-0000-0000-0000-000000000000",
     // 在/list请求中id对应的值
@@ -36,4 +36,4 @@
 
 ## 尝试
 
-<PostButton url="join" method="POST" :body='{"version": "1.0.0","joininformation": {"addid": "5","roomfrom": "5","roomid": "00000000-0000-0000-0000-000000000000","sessionname": "00000000-0000-0000-0000-000000000000"},"invitecontrol": {"userxuid": "000000000000000"}}' />
+<PostButton url="join" method="POST" :body='{"version": "1.0.0","joininformation": {"addid": "6","roomfrom": "6","roomid": "00000000-0000-0000-0000-000000000000","sessionname": "00000000-0000-0000-0000-000000000000"},"invitecontrol": {"userxuid": "000000000000000"}}' />

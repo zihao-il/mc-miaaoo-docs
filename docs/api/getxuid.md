@@ -15,3 +15,7 @@ https://api.miaaoo.com/getxuid?gametag=HelloMC25a
 ## 响应
 
 返回一个16位长度的纯数字
+
+## 尝试
+
+<PostButton url="getxuid" method="GET" body="gametag=MultiMC23" />

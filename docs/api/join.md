@@ -15,7 +15,7 @@
   "joininformation": {
     "addid": "6",
     // 你添加了哪位好友就填对应好友的id数字
-    // 2：MultiMC23，3：gouhope，4：HelloMC25，5：HelloMC25a，6：HelloMC25b5988
+    // 详情查看/account请求
     "roomfrom": "6",
     // 房间来源的好友id 在/list请求中roomfrom对应的值
     "roomid": "00000000-0000-0000-0000-000000000000",

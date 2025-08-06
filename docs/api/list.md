@@ -35,7 +35,7 @@
       },
       "roomfrom": "6"  //现在仅有6可添加好友
       //好友房间来源 在/join请求中roomfrom对应的值，对应关系如下
-      // 2：MultiMC23，3：gouhope，4：HelloMC25，5：HelloMC25a，6：HelloMC25b5988
+      // 详情查看/account请求
     }
     // 以下房间信息同上
   ]

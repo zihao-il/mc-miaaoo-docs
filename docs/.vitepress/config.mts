@@ -31,6 +31,7 @@ export default defineConfig({
                         text: 'API说明', link: '/api/index.md',
                         items: [
                             {text: '/list', link: '/api/list.md'},
+                            {text: '/account', link: '/api/account.md'},
                             {text: '/join', link: '/api/join.md'},
                             {text: '/getxuid', link: '/api/getxuid.md'},
                         ]

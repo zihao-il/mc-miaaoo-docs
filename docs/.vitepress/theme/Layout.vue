@@ -2,14 +2,18 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import Comment from './components/GiscusComment.vue'
+import BackTop from './components/BackTop.vue'
 
-const { Layout } = DefaultTheme
+const {Layout} = DefaultTheme
 </script>
 
 <template>
     <Layout>
         <template #doc-after>
-            <Comment />
+            <Comment/>
+        </template>
+        <template #doc-footer-before>
+            <BackTop/>
         </template>
     </Layout>
 </template>

@@ -34,6 +34,7 @@ export default defineConfig({
                             {text: '/account', link: '/api/account.md'},
                             {text: '/join', link: '/api/join.md'},
                             {text: '/getxuid', link: '/api/getxuid.md'},
+                            {text: '/profile', link: '/api/profile.md'},
                         ]
                     },
                 ]

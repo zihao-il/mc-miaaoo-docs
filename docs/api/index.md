@@ -28,9 +28,13 @@ account是一个`get`请求，他不需要传入任何参数，用来获取账�
 
 join是一个`post`请求，他需要传入一组`json`数据，用来加入一个房间。
 
-## /getxuid
+## /getxuid (即将弃用)
 
 getxuid是一个`get`请求，他需要传入你的用户名获取用户的`xuid`。
+
+## /profile
+
+profile是一个`get`请求，他需要传入你的用户名或者XUID获取用户个人信息。
 
 ## ~~已完结~~
 

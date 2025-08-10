@@ -1,6 +1,6 @@
 # /getxuid(即将弃用)
 
-获取用户的xuid（使用/profile替代）
+获取用户的xuid（使用[/profile](./profile)替代）
 
 ## 请求
 

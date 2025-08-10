@@ -1,6 +1,6 @@
 # API 列表
 
-这个项目一共就四个API，下面我将简单描述一下这四个API的功能用法。
+这个项目一共就五个API，下面我将简单描述一下这五个API的功能用法。
 
 首先API的主域名是
 
@@ -39,4 +39,4 @@ profile是一个`get`请求，他需要传入你的用户名或者XUID获取用�
 ## ~~已完结~~
 
 OK你已经熟悉了所有API的用法， ~~快去建个站试试吧~~。   
-下面将逐个详细的介绍这四个API的用法，如果你觉得自己行的话可以参考一下[此文档的代码](https://github.com/zihao-il/mc-miaaoo/blob/main/src/utils/axios.ts)
+下面将逐个详细的介绍这五个API的用法，如果你觉得自己行的话可以参考一下[此文档的代码](https://github.com/zihao-il/mc-miaaoo/blob/main/src/utils/axios.ts)

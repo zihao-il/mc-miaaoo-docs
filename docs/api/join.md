@@ -32,7 +32,23 @@
 
 ## 响应
 
-返回状态码为`200`即为成功
+```json5
+{
+  "status": "200",
+  "code": "2",
+  "message": "Success, and the invitation has been sent.",
+  "message_zh_CN": "成功，而且邀请已发送。"
+}
+```
+
+```json5
+{
+  "status": "200",
+  "code": "1",
+  "message": "Success, but the xuid parameter is missing or invalid.",
+  "message_zh_CN": "成功，但是xuid参数缺失或非法。"
+}
+```
 
 ## 尝试
 

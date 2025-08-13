@@ -19,7 +19,6 @@ const getInput = ref(
 
 
 const fetchVersion = async () => {
-    const parsedBody = JSON.parse(bodyInput.value)
     let url: string;
     if (props.method === 'GET') {
         url = `${props.url}?${getInput.value}`
@@ -33,7 +32,7 @@ const fetchVersion = async () => {
             'Content-Type': 'application/json',
         },
         body: props.method === 'POST'
-            ? new URLSearchParams(parsedBody as Record<string, string>).toString()
+            ? bodyInput.value
             : undefined
     });
 

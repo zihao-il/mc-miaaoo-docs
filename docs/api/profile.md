@@ -48,6 +48,44 @@ https://api.miaaoo.com/profile?xuid=2535420194487254
 }
 ```
 
+
+## 响应码
+
+::: details HTTP 400
+
+```json5
+{
+  "status": "400",
+  "code": undefined,
+  "message": "Either xuid or gt parameter must be provided.",
+  "message_zh_CN": "必须提供 xuid 或 gt 参数。"
+}
+```
+
+```json5
+{
+  "status": "400",
+  "code": undefined,
+  "message": "The xuid and gt parameters cannot exist at the same time.",
+  "message_zh_CN": "xuid 和 gt 参数不能同时存在。"
+}
+```
+
+:::
+
+::: details HTTP 500
+
+```json5
+{
+  "status": "500",
+  "code": undefined,
+  "message": "Error fetching user profile from Xbox Live API.",
+  "message_zh_CN": "从 Xbox Live API 获取用户资料时出错。"
+}
+```
+
+:::
+
 ## 尝试
 
 <PostButton url="profile" method="GET" body="gt=HelloMC25a" />

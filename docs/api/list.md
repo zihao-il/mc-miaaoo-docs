@@ -11,6 +11,7 @@
 下面请求到的返回信息，是一个`json`格式的数据，我们来逐一解释各个字段的含义。
 
 ```json5
+// HTTP 200
 {
   "results": [
     {
@@ -41,6 +42,29 @@
   ]
 }
 ```
+
+## 响应码
+
+::: details HTTP 500
+```json5
+{
+  "status": "500",
+  "code": undefined,
+  "message": "No data found for redis.",
+  "message_zh_CN": "未在redis找到数据。"
+}
+```
+
+```json5
+{
+  "status": "500",
+  "code": undefined,
+  "message": "Error fetching data from Redis.",
+  "message_zh_CN": "从Redis获取数据时出错。"
+}
+```
+
+:::
 
 ## 尝试
 

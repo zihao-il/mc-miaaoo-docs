@@ -50,6 +50,80 @@
 }
 ```
 
+## 响应码
+
+::: details HTTP 4xx
+
+```json5
+{
+  "status": "400",
+  "code": 1,
+  "message": "Invalid or missing parameters.",
+  "message_zh_CN": "参数无效或缺失。"
+}
+```
+
+```json5
+{
+  "status": "400",
+  "code": 2,
+  "message": "A ddid or roomid error. Please check if the id is of type string, it is often mistakenly sent as number type. ",
+  "message_zh_CN": "addid或roomid错误。请检查id是否是string类型，它常常被错误地以number类型发送。"
+}
+```
+
+```json5
+{
+  "status": "400",
+  "code": undefined,
+  "message": "Failed to send invitation. If the error persists, try leaving the xuid parameter blank.",
+  "message_zh_CN": "发送邀请失败，如果错误一直存在，请尝试xuid参数留空。"
+}
+```
+
+```json5
+
+{
+  "status": "400",
+  "code": undefined,
+  "message": "Failed to send invitation. If the error persists, try leaving the xuid parameter blank.",
+  "message_zh_CN": "发送邀请失败，如果错误一直存在，请尝试xuid参数留空。"
+}
+```
+
+:::
+
+::: details HTTP 500
+
+```json5
+{
+  "status": "500",
+  "code": undefined,
+  "message": "Invalid subscriptionId parameter.",
+  "message_zh_CN": "subscriptionId参数无效。"
+}
+```
+
+```json5
+{
+  "status": "500",
+  "code": undefined,
+  "message": "Invalid subscriptionId parameter.",
+  "message_zh_CN": "subscriptionId参数无效。"
+}
+```
+
+```json5
+{
+  "status": "500",
+  "code": undefined,
+  "message": "Error processing WebSocket message.",
+  "message_zh_CN": "处理 WebSocket 消息时出错。"
+}
+```
+
+:::
+
 ## 尝试
 
 <PostButton url="join" method="POST" :body='{"version": "1.0.0","joininformation": {"addid": "6","roomfrom": "6","roomid": "00000000-0000-0000-0000-000000000000","sessionname": "00000000-0000-0000-0000-000000000000"},"invitecontrol": {"userxuid": "000000000000000"}}' />

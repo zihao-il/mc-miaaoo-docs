@@ -47,7 +47,9 @@
 
 ::: details HTTP 500
 
-```json5
+::: code-group
+
+```json5 [错误1]
 {
   "status": "500",
   "code": undefined,
@@ -56,9 +58,7 @@
 }
 ```
 
-<br>
-
-```json5
+```json5 [错误2]
 {
   "status": "500",
   "code": undefined,

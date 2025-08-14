@@ -53,7 +53,9 @@ https://api.miaaoo.com/profile?xuid=2535420194487254
 
 ::: details HTTP 400
 
-```json5
+::: code-group
+
+```json5 [错误1]
 {
   "status": "400",
   "code": undefined,
@@ -62,9 +64,7 @@ https://api.miaaoo.com/profile?xuid=2535420194487254
 }
 ```
 
-<br>
-
-```json5
+```json5 [错误2]
 {
   "status": "400",
   "code": undefined,

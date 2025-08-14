@@ -32,7 +32,10 @@
 
 ## 响应
 
-```json5
+::: code-group
+
+
+```json5 [响应1]
 {
   "status": "200",
   "code": "2",
@@ -41,7 +44,7 @@
 }
 ```
 
-```json5
+```json5 [响应2]
 {
   "status": "200",
   "code": "1",
@@ -50,11 +53,15 @@
 }
 ```
 
+:::
+
 ## 响应码
 
 ::: details HTTP 4xx
 
-```json5
+::: code-group
+
+```json5 [错误1]
 {
   "status": "400",
   "code": 1,
@@ -63,9 +70,7 @@
 }
 ```
 
-<br>
-
-```json5
+```json5 [错误2]
 {
   "status": "400",
   "code": 2,
@@ -74,9 +79,7 @@
 }
 ```
 
-<br>
-
-```json5
+```json5 [错误3]
 {
   "status": "400",
   "code": undefined,
@@ -85,9 +88,7 @@
 }
 ```
 
-<br>
-
-```json5
+```json5 [错误4]
 {
   "status": "404",
   "code": undefined,
@@ -100,7 +101,9 @@
 
 ::: details HTTP 500
 
-```json5
+::: code-group
+
+```json5 [错误1]
 {
   "status": "500",
   "code": undefined,
@@ -109,9 +112,7 @@
 }
 ```
 
-<br>
-
-```json5
+```json5 [错误2]
 {
   "status": "500",
   "code": undefined,
@@ -120,9 +121,7 @@
 }
 ```
 
-<br>
-
-```json5
+```json5 [错误3]
 {
   "status": "500",
   "code": undefined,

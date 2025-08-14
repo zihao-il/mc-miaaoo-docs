@@ -21,7 +21,9 @@ https://api.miaaoo.com/getxuid?gametag=HelloMC25a
 
 ::: details HTTP 4xx
 
-```json5
+::: code-group
+
+```json5 [错误1]
 {
   "status": "400",
   "code": undefined,
@@ -30,9 +32,7 @@ https://api.miaaoo.com/getxuid?gametag=HelloMC25a
 }
 ```
 
-<br>
-
-```json5
+```json5 [错误2]
 {
   "status": "404",
   "code": undefined,

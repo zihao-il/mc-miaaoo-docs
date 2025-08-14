@@ -46,6 +46,7 @@
 ## 响应码
 
 ::: details HTTP 500
+
 ```json5
 {
   "status": "500",
@@ -54,6 +55,8 @@
   "message_zh_CN": "未在redis找到数据。"
 }
 ```
+
+<br>
 
 ```json5
 {

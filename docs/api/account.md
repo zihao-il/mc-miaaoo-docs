@@ -19,14 +19,9 @@ https://api.miaaoo.com/account
 ```json5
 [
   {
-    "id": "2",  //账号id
-    "name": "MultiMC23", //Xbox名字
+    "id": "3",  //账号id
+    "name": "gouhope", //Xbox名字
     "canaddfriends": false //是否是可以添加的好友
-  },
-  {
-    "id": "3",
-    "name": "gouhope",
-    "canaddfriends": false
   },
   {
     "id": "4",

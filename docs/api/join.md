@@ -63,6 +63,8 @@
 }
 ```
 
+<br>
+
 ```json5
 {
   "status": "400",
@@ -72,6 +74,8 @@
 }
 ```
 
+<br>
+
 ```json5
 {
   "status": "400",
@@ -81,13 +85,14 @@
 }
 ```
 
-```json5
+<br>
 
+```json5
 {
-  "status": "400",
+  "status": "404",
   "code": undefined,
-  "message": "Failed to send invitation. If the error persists, try leaving the xuid parameter blank.",
-  "message_zh_CN": "发送邀请失败，如果错误一直存在，请尝试xuid参数留空。"
+  "message": "Session not found, multiplayer may be turned off.",
+  "message_zh_CN": "会话不存在，多人游戏可能已关闭。"
 }
 ```
 
@@ -104,14 +109,18 @@
 }
 ```
 
+<br>
+
 ```json5
 {
   "status": "500",
   "code": undefined,
-  "message": "Invalid subscriptionId parameter.",
-  "message_zh_CN": "subscriptionId参数无效。"
+  "message": "Failed to join session.",
+  "message_zh_CN": "加入会话失败。"
 }
 ```
+
+<br>
 
 ```json5
 {

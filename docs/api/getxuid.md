@@ -30,6 +30,8 @@ https://api.miaaoo.com/getxuid?gametag=HelloMC25a
 }
 ```
 
+<br>
+
 ```json5
 {
   "status": "404",

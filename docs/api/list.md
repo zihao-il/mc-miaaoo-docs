@@ -4,7 +4,15 @@
  
 ## 请求
 
-/list是一个最简单API请求了，你只需要向`https://api.miaaoo.com/list` 发送一个`get`请求就可以了。
+/list是一个最简单API请求了，你只需要向`https://api.miaaoo.com/list` 发送一个`get`请求就可以了。  
+可惜现在有可选参数了🤣，新加入了`lang`参数，通过房间名的语言来筛选房间数据，参数内容可以自行查询语言代码，当参数为空或不加时显示全部
+
+例如：
+
+```bash
+https://api.miaaoo.com/list?lang=zh
+```
+
 
 ## 响应
 
@@ -71,5 +79,5 @@
 
 ## 尝试
 
-<PostButton url="list" method="GET" body="" />
+<PostButton url="list?lang=" method="GET" body="" />
 

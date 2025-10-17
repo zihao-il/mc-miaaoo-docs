@@ -35,6 +35,7 @@ export default defineConfig({
                             {text: '/join', link: '/api/join.md'},
                             {text: '/getxuid', link: '/api/getxuid.md'},
                             {text: '/profile', link: '/api/profile.md'},
+                            {text: '/roominfo', link: '/api/roominfo.md'},
                         ]
                     },
                 ]

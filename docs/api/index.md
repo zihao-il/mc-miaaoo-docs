@@ -47,6 +47,10 @@ getxuid是一个`get`请求，他需要传入你的用户名获取用户的`xuid
 
 profile是一个`get`请求，他需要传入你的用户名或者XUID获取用户个人信息。
 
+## /roominfo
+
+roominfo是一个`get`请求，他需要传入房间的`sessionRef.name`跟`roomfrom`即可~~视奸~~(查询)房间中的玩家。
+
 ## ~~已完结~~
 
 OK你已经熟悉了所有API的用法， ~~快去建个站试试吧~~。   

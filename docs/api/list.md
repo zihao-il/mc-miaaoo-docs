@@ -79,5 +79,5 @@ https://api.miaaoo.com/list?lang=zh
 
 ## 尝试
 
-<PostButton url="list?lang=" method="GET" body="" />
+<PostButton url="list" method="GET" body="lang=" />
 

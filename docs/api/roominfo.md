@@ -131,6 +131,20 @@ https://api.miaaoo.com/roominfo?session=00000000-0000-0000-0000-000000000000&roo
 
 ```
 
+## 响应码
+
+::: details HTTP 400
+
+```json5
+{
+  "status": "400",
+  "message": "Missing session or roomfrom parameter, or invalid roomfrom value.",
+  "message_zh_CN": "缺少 session 或 roomfrom 参数，或 roomfrom 值无效。"
+}
+```
+
+:::
+
 ## 尝试
 
 <PostButton url="roominfo" method="GET" body="session=00000000-0000-0000-0000-000000000000&roomfrom=6" />

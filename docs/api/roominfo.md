@@ -133,13 +133,21 @@ https://api.miaaoo.com/roominfo?session=00000000-0000-0000-0000-000000000000&roo
 
 ## 响应码
 
-::: details HTTP 400
+::: details HTTP 40X
 
-```json5
+```json5 [400]
 {
   "status": "400",
   "message": "Missing session or roomfrom parameter, or invalid roomfrom value.",
   "message_zh_CN": "缺少 session 或 roomfrom 参数，或 roomfrom 值无效。"
+}
+```
+
+```json5 [403]
+{
+  "status": "403",
+  "message": "The requested session cannot be accessed. The calling user must have the multiplayer privilege and must be a member of the session if the session either is private or has a read restriction on it that the user doesn't satisfy, multi-user requests aren't allowed for large sessions, banned xuids can't access the session, users must have the communicate permission to access sessions that require it, and devices other than an Xbox One can only access sessions with user-style authorization.\r\n",
+  "message_zh_CN": "从 Xbox Live API 获取会话数据时出错。"
 }
 ```
 

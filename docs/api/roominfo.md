@@ -135,6 +135,8 @@ https://api.miaaoo.com/roominfo?session=00000000-0000-0000-0000-000000000000&roo
 
 ::: details HTTP 40X
 
+::: code-group
+
 ```json5 [400]
 {
   "status": "400",

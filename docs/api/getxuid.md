@@ -19,7 +19,7 @@ https://api.miaaoo.com/getxuid?gametag=HelloMC25a
 
 ## 响应码
 
-::: details HTTP 4xx
+::: details HTTP 40x
 
 ::: code-group
 

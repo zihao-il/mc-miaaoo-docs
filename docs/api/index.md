@@ -27,15 +27,15 @@ https://api.miaaoo.com
 | `404` | 会话错误  | 
 | `500` | 服务器错误 | 
 
-## /list
+## [/list](./list.md)
 
 list是一个`get`请求，他~~不需要~~(可以需要)传入任何参数，用来获取所有的房间信息。
 
-## /account
+## [/account](./account.md)
 
 account是一个`get`请求，他不需要传入任何参数，用来获取账号信息。
 
-## /join
+## [/join](./join.md)
 
 join是一个`post`请求，他需要传入一组`json`数据，用来加入一个房间。
 
@@ -43,11 +43,11 @@ join是一个`post`请求，他需要传入一组`json`数据，用来加入一�
 
 getxuid是一个`get`请求，他需要传入你的用户名获取用户的`xuid`。
 
-## /profile
+## [/profile](./profile.md)
 
 profile是一个`get`请求，他需要传入你的用户名或者XUID获取用户个人信息。
 
-## /roominfo
+## [/roominfo](./roominfo.md)
 
 roominfo是一个`get`请求，他需要传入房间的`sessionRef.name`跟`roomfrom`即可~~视奸~~(查询)房间中的玩家。
 

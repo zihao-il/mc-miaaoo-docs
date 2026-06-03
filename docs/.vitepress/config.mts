@@ -27,6 +27,8 @@ export default defineConfig({
             {text: '教程', link: '/教程.md'},
             {
                 items: [
+                    {text: 'v2版接口', link: '/api/v2版接口指南'},
+                    {text: 'v1迁移至v2', link: '/api/v1迁移至v2接口指南'},
                     {
                         text: 'API说明', link: '/api/index.md',
                         items: [
@@ -40,6 +42,7 @@ export default defineConfig({
                     },
                 ]
             },
+            {text: 'MCP对接', link: '/MCP对接'},
             {text: '其他网页', link: '/site'}
 
         ],

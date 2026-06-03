@@ -20,7 +20,7 @@ export default defineConfig({
         nav: [
             {text: '主页', link: '/'},
             {text: '教程', link: '/教程.md'},
-            {text: 'API', link: '/api/index.md'}
+            {text: 'API', link: '/api/v2版接口指南'}
         ],
 
         sidebar: [

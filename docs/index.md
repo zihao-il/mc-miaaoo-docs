@@ -12,7 +12,7 @@ hero:
       link: /教程
     - theme: alt
       text: ⛏️API文档
-      link: /api
+      link: /api/v2版接口指南
     - theme: alt
       text: 🛠️Github
       link: https://github.com/zihao-il/mc-miaaoo-docs
